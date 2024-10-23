@@ -4,6 +4,9 @@ draft: false
 tags:
 ---
 
+> [!info]
+> This web page is a clone of a web page created by Jeff Giansiracusa and Davesh Maulik. The original version can be accessed at [aimath.org/WWN/modspacecurves/](https://www.aimath.org/WWN/modspacecurves/).
+
 This web page is meant to be a collection of resources for mathematicians interested in the moduli space of curves, and related subjects. The content grew out of the ARCC workshop: Topology and Geometry of the Moduli Space of Curves, March 28 to April 1, 2005, organized by Ulrike Tillmann and Ravi Vakil. The workshop was sponsored by AIM and the NSF. The initial announcement is [here](https://www.aimath.org/ARCC/workshops/modspacecurves.html).
 
 A [list of participants](https://aimath.org/cgi-bin/showparticipants.prl?workshop=40&mode=participantlist) is available.

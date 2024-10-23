@@ -5,10 +5,14 @@ date: 2005-05-15
 author: Jeffrey Herschel Giansiracusa
 ---
 
+> [!info]
+> This web page is a clone of a web page created by Jeff Giansiracusa and Davesh Maulik. The original version can be accessed at [aimath.org/WWN/modspacecurves/open-problems/index.html](https://www.aimath.org/WWN/modspacecurves/open-problems/index.html).
+
 This document was produced as part of the activities during the Topology and Geometry of the Moduli space of Curves workshop in March 2005; it is a component of a larger resource site at [http://www.aimath.org/WWN/modspacecurves/](http://www.aimath.org/WWN/modspacecurves/)
 
 Please send updates, additions, comments, corrections, etc. to either
-- Jeff Giansiracusa ([giansira@maths.ox.ac.uk](mailto:giansira@maths.ox.ac.uk))
+- Harry Richman ([hrichman@alum.mit.edu](mailto:hrichman@alum.mit.edu))
+- or Jeff Giansiracusa ([giansira@maths.ox.ac.uk](mailto:giansira@maths.ox.ac.uk))
 - or Davesh Maulik ([dmaulik@math.princeton.edu](mailto:dmaulik@math.princeton.edu)).
 
 This document originated as a rough transcription of the problems and questions generated during a discussion session towards the close of the workshop. Hopefully it will continue to evolve into a repository of new questions about the moduli space of curves. Towards this goal, readers are encouraged to submit new questions and information regarding developments on the questions listed here.
