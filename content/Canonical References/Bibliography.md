@@ -3,10 +3,10 @@ title: Bibliography
 ---
 
 ### ACV03
-D. Abramovich, A. Corti, and A. Vistoli, *Twisted bundles and admissible covers*, Comm. Algebra **31** (2003), no. 8, 3547-3618.
+D. Abramovich, A. Corti, and A. Vistoli, [*Twisted bundles and admissible covers*](https://doi.org/10.1081/AGB-120022434), Comm. Algebra **31** (2003), no. 8, 3547-3618.
 
 ### Ada78
-J. F. Adams, *Infinite loop spaces*, Annals of Mathematics Studies, vol. 90, Princeton University Press, Princeton, N.J., 1978.
+J. F. Adams, [*Infinite loop spaces*](https://www.jstor.org/stable/j.ctt1b9rztk), Annals of Mathematics Studies, vol. 90, Princeton University Press, Princeton, N.J., 1978.
 
 ### Cor97
 A. Corti, *The moduli space of curves*, available [online](http://geometry.ma.ic.ac.uk/acorti/wp-content/uploads/2016/07/moduli.pdf), 1997.
@@ -21,7 +21,7 @@ D. Edidin, *Notes of the construction of the moduli space of curves*, availabl
 C. Faber and E. Looijenga, *Remarks on moduli of curves*, Moduli of curves and abelian varieties, Aspects Math., E33, Vieweg, Braunschweig, 1999, pp. 23-45.
 
 ### FP97
-W. Fulton and R. Pandharipande, *Notes on stable maps and quantum cohomology*, Algebraic geometry--Santa Cruz 1995, Proc. Sympos. Pure Math., vol. 62, Amer. Math. Soc., Providence, RI, 1997, pp. 45-96.
+W. Fulton and R. Pandharipande, [*Notes on stable maps and quantum cohomology*](https://arxiv.org/abs/alg-geom/9608011), Algebraic geometry--Santa Cruz 1995, Proc. Sympos. Pure Math., vol. 62, Amer. Math. Soc., Providence, RI, 1997, pp. 45-96.
 
 ### FP00
 C. Faber and R. Pandharipande, *Logarithmic series and Hodge integrals in the tautological ring (with an appendix by D. Zagier)*, [math.AG/0002112](https://arxiv.org/abs/math/0002112), 2000.
