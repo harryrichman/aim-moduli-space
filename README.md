@@ -30,17 +30,6 @@ Ulrike Tillmann and Ravi Vakil.
 For more details please see the workshop announcement page:
 http://aimath.org/ARCC/workshops/modspacecurves.html
 
-Space and funding is available for a few more participants.
-If you would like to participate, please apply by filling
-out the on-line form (available at the link above) no later
-than December 15, 2004. Applications are open to all, and
-we especially encourage women, underrepresented minorities,
-junior mathematicians, and researchers from primarily
-undergraduate institutions to apply.
-
-Before submitting an application, please read the ARCC
-policies concerning participation and financial support
-for participants.
 
 --------------------------------------
 ## AIM Research Conference Center (ARCC):

@@ -8,7 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/harryrichman/aim-moduli-space",
+      "GitHub source": "https://github.com/harryrichman/aim-moduli-space",
       // "Discord Community": "https://discord.gg/cRFFHYye7t",
     },
   }),
